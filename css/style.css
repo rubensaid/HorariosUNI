@@ -1,0 +1,279 @@
+html, body {
+	margin: 0;
+	padding: 0;
+}
+body {
+	font-family: Century Gothic;
+	font-size: 12px;
+	text-align: center;
+}
+a, a:visited {
+	color: #3982c0;
+	text-decoration: none;
+	font-weight: bold;
+}
+a:hover, a:active {color: #6EAFE8}
+/* Start Header */
+div#header {
+	height: 50px;
+	background: #3982c0;
+	margin: auto;			
+}
+div#head_wrap {	
+	position: absolute;
+	left: 50%;            
+	margin-left: -512px;
+	width: 1024px;	
+}
+div#head_wrap h1 {		
+	margin: 0;
+	padding: 0;	
+	width: 285px;
+	height: 50px;
+	text-indent: -5000px;
+	background: url(../images/logo.jpg) no-repeat top left;
+}
+div#head_wrap a {
+	margin: 0;
+	padding: 0;
+	font-weight: normal;
+}
+div#menu {
+	float: right;
+}
+div#menu ul {
+	list-style: none;
+	margin: 0;
+	padding: 0;
+}
+div#menu li {
+	float: right;
+	margin: 0;
+	padding: 0;
+	text-transform: uppercase;
+	/*text-transform: lowercase;*/
+	/*text-transform: capitalize;*/
+}
+div#menu li a, div#menu li a:visited {
+	margin: 0;
+	padding: 12px 8px;
+	color: #fff;
+	font-size: 20px;	
+	text-decoration:none;
+	display: block;
+}
+div#menu li a:hover, div#menu li a:active, div#menu li a.actual {
+	background: #29689d;
+	color: #f8e8bc;
+}
+/* End Header */
+/* Start Footer */
+div#footer {
+	background: #333;
+	color: #FFF;
+	clear: left;
+	width: 100%;
+	height: 40px;
+}
+div#footer p {
+	margin:0;	
+	padding:10px 0;
+}
+/* End Footer */
+/* Start Content */
+div#container {
+	text-align: left;
+	width: 1054px;		
+	margin: auto;			
+}
+div#wrapper {
+	float:left;
+	width:100%;
+	background: url(../images/bg.jpg) repeat-y center;
+	padding: 15px 0;
+}
+div#left {
+	float: left;
+	width: 160px;
+	margin-left: 22px;
+	text-align: center;
+	padding: 20px 0;
+}
+div#extra {
+	float: right;
+	text-align: right;
+	width: 200px;
+	margin-right: 22px;		
+	padding: 20px 0;
+}
+div#extra a, div#extra a:visited, div#extra a:hover, div#extra a:active {
+	color: #3982c0;
+	text-decoration: underline;
+	font-weight: bold;
+}
+div#extra div {
+	margin-bottom: 25px;	
+}
+div#extra div h3 {
+	font-size: 15px;
+	color: #ff8c00;
+	margin: 0;	
+}
+div#extra div ol {
+	text-align: left;
+	margin-bottom: 5px;	
+	padding-left: 20px;
+}
+div#extra div ol li {
+	margin-left: 0;
+	margin-bottom: 5px;
+}
+div#extra div[id!=feed] a {
+	margin-left: 140px;	
+}
+div#feed ol {
+	list-style: none;
+	padding-left: 0;
+	margin-left: -16px;
+	line-height: 13px;
+	font-family: Verdana;
+	font-size: 11px;
+}
+div#feed li {
+	margin-left: 0;
+	padding-bottom: 20px;
+}
+div#feed li.ite2 {padding-bottom: 5px;}
+div#content {
+	margin: 0 220px 0 190px;
+}
+div#content div.uni {
+	font-size: 30px;
+	font-weight: bold;
+	text-transform: uppercase;
+	margin: 20px 0;
+}
+div#content div.facu {
+	font-size: 22px;
+	font-weight: bold;
+	margin: 8px 0;
+}
+div#content span {
+	font-size: 11px;	
+	color: #ce3094;
+	text-transform: lowercase;
+	cursor: pointer;	
+	font-weight: bold;
+}
+div#container span:hover {color: #e75bb4;}
+div#content span.sel {color: #ff0000;}
+div#content span:hover.sel {color: #FF4747;}
+div#content li p {
+	display: inline;
+	font-style: italic;
+	margin: 0 5px 0 15px;
+	color: #666;
+}
+div#content li span {display: none;}
+div#content li:hover span {
+	display: inline;
+	margin: 0 5px 0 25px;
+}
+div#content li:hover span.profe {color: #689732; margin-left: 5px;}
+div#content li:hover span:hover.profe {color: #79B03C;}
+div#content li:hover span.fixed {color: #CA8223; margin-left: 5px;}
+div#content li:hover span:hover.fixed {color: #DA953A;}
+div#content li:hover span.manual {color: #848484; margin-left: 5px;}
+div#content li:hover span:hover.manual {color: #9C9C9C;}
+div#container div.course {
+	margin: 15px 0;
+	line-height: 25px;
+}
+div#container div.course div.horas_cruce {
+	margin: 0;	
+	color: #6e6e6e;
+	font-size: 11px;
+	float: right;	
+}
+div#container div.course ul {
+	/*list-style: none;*/
+	margin: 0 17px;
+	padding: 0;
+	cursor: default;
+}
+div#container div.TT {
+	margin: 15px 0;
+	text-align: center;	
+}
+button#makeTT {
+	width: 150px;
+}
+div#container div#TimeTable {
+	margin: 15px 0 0 0;
+	text-align: center;	
+	padding: 0;
+	width: 99%;
+	height: 500px;	
+}
+div#container div#TimeTable table{	
+	text-align: center;
+	border-collapse: collapse;	
+}
+div#container div#TimeTable table th, div#container div#TimeTable table td {
+	padding: 5px 0;
+}
+div#container div#TimeTable table th{	
+	text-align: left;	
+	border: 0;
+	font-size: 15px;
+	padding-bottom: 10px;
+	border-bottom: 2px solid #000;
+	border-right: 16px solid #fff;
+	width: 15.5%;
+}
+div#container div#TimeTable table tbody tr {color: #666;}
+div#container div#TimeTable table tbody tr:hover td.hora {color: #2B4909; background: #DFFAC0;}
+div#container div#TimeTable table .tithora {border: 0; width: 7%;}
+div#container div#TimeTable table tr td.hora {	
+	text-align: center;
+	color: #979797;
+	border: 0;
+}
+
+div#container div#TimeTable span.fail{		
+	color: #F94A47;
+	padding: 10px 0;
+	cursor: help;
+}
+div#container div#TimeTable form p{color: #000; cursor: pointer;}
+div#container div#TimeTable form p:hover {color: #585858;}
+/*div#msgimportantf {display: none;}*/
+div#msgimportant, div#msgimportanta, div#msgimportantf {
+	background: #B5E0A4;
+	padding: 15px;
+	margin: 25px;
+	border: 1px solid #386D24;
+	font-size: 13px;
+	color: #224316;
+}
+div#msgimportanta {
+	background: #EEE79C;
+	border-color: #993C3C;
+	color: #612020;
+}
+div#msgimportantf {
+	background: #E08282;
+	border-color: #BFB651;
+	color: #9C932A;
+}
+.success {
+	color: #4B8921;
+}
+.fail {
+	color: #F94A47;	
+}
+a.underbottom, a.underbottom:visited {color: #BDBDBD; cursor: pointer; margin: 0 7px;}
+a.underbottom:active, a.underbottom:hover {color: #666;}
+a.help, a.help:hover, a.help:visited, a.help:active {cursor: help;}
+.ocu {display:none;}
+/* End Content*/

@@ -1,0 +1,40 @@
+/* tooltip styling */
+.tooltip {
+	display:none;
+	background:transparent url(http://static.flowplayer.org/tools/img/tooltip/black_arrow.png);
+	font-size:12px;
+	height:70px;
+	width:160px;
+	padding:25px;
+	color:#fff;	
+}
+.tooltip.bottom {
+	background:url(http://static.flowplayer.org//tools/img/tooltip/black_arrow_bottom.png);
+	padding-top:40px;
+	height:55px;
+}
+
+.tooltip.bottom {
+	background:url(http://static.flowplayer.org//tools/img/tooltip/black_arrow_bottom.png);
+}
+.tooltip_td {
+	display:none;
+	background:url(http://static.flowplayer.org/tools/img/tooltip/white.png);
+	font-size:12px;
+	height:57px;
+	width:160px;
+	padding:25px;
+	color:#000;	
+}
+.error em {
+	display:block;
+	width:0;
+	height:0;
+	border:10px solid;
+	border-color:#FFFE36 transparent transparent;
+
+	/* positioning */
+	position:absolute;
+	bottom:-17px;
+	left:60px;
+}
