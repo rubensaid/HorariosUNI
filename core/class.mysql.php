@@ -9,8 +9,8 @@ class MySQL {
  
 	public function MySQL() {
 		if(!isset($this->conexion)) {
-			$this->conexion = (mysql_connect("localhost","code09fi_hora","ght=45#")) or die(mysql_error());
-			mysql_select_db("code09fi_horarios",$this->conexion) or die(mysql_error());
+			$this->conexion = (mysql_connect("localhost","rubensai_horari","ght=45#")) or die(mysql_error());
+			mysql_select_db("rubensai_code09fi_horarios",$this->conexion) or die(mysql_error());
 		}
 	}
 	

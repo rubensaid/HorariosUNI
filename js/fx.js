@@ -42,7 +42,7 @@ $(document).ready(function() {
 		//Cursos
 		if(cuales == "course") {
 			c_put=$("input#code_input").val().replace(" ","").toUpperCase();
-			if(c_put!="CÓDIGODEL CURSO" && c_put.length>=5) {
+			if(c_put!="CODIGODEL CURSO" && c_put.length>=5) {
 				aux=true;
 				for(var i=0; i<$(".course ul li").length; i++) {
 					if($(".course ul li").eq(i).attr("id").indexOf(c_put)!=-1) {aux=false;}
@@ -80,7 +80,7 @@ $(document).ready(function() {
 				$(this).parent().html(profe_prev).hide().fadeIn("slow");
 			}
 		} else if($(this).attr("class")=="manual") {
-			aux=prompt("Ingrese la sección (A, B, C, ...)");
+			aux=prompt("Ingrese la secci\xf3n (A, B, C, ...)");
 			$(this).parent().html(quees+" <p id='"+aux+"' esto='sec'>Secci&oacute;n "+aux+"</p>  <span>&#215; remover</span> <span class='fixed' did='true'>&#8593; liberar</span>").hide().fadeIn("slow");
 		} else if($(this).attr("class")=="fixed") {
 			if(is_done) {
@@ -91,7 +91,7 @@ $(document).ready(function() {
 						$(this).parent().html(quees+" <p id='"+aux+"' esto='sec'>Secci&oacute;n "+aux+"</p>  <span>&#215; remover</span> <span class='fixed' did='true'>&#8593; liberar</span>").hide().fadeIn("slow");
 					} else {
 						alert("Ha ocurrido un error. Vuelva a generar el Horario.");
-						aux=prompt("Puede ingresar manualmente la sección (A, B, C, ...)");
+						aux=prompt("Puede ingresar manualmente la secci\xf3n (A, B, C, ...)");
 						$(this).parent().html(quees+" <p id='"+aux+"' esto='sec'>Secci&oacute;n "+aux+"</p>  <span>&#215; remover</span> <span class='fixed' did='true'>&#8593; liberar</span>").hide().fadeIn("slow");
 					}
 				} else {
@@ -101,7 +101,7 @@ $(document).ready(function() {
 				alert("Primero genere un horario.");
 			}
 		} else {
-			aux=confirm("¿Confirma remover este curso?")
+			aux=confirm("\xbfConfirma remover este curso?")
 			if (aux) {
 				$(this).parent().eq(0).remove();
 			}
@@ -135,14 +135,14 @@ $(document).ready(function() {
 	$("input#code_input").live({
 		click: function() {
 			c_put=$(this).val();
-			if(c_put=="Código del Curso") {
+			if(c_put=="C\xf3digo del Curso") {
 				$(this).val("");
 			}
 		},
 		blur: function() {
 			c_put=$(this).val();
 			if(c_put=="") {
-				$(this).val("Código del Curso");
+				$(this).val('C\xf3digo del Curso');
 			}			
 		},
 		keypress: function(e) {

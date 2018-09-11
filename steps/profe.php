@@ -11,14 +11,14 @@ $query="SELECT cid FROM cursos WHERE code LIKE '%".utf8_decode($_GET['code'])."%
 $consulta=$db->query($query);
 $row=$db->fetch_array($consulta);
 $cid=$row['cid'];
-$query="SELECT pid FROM horarios WHERE cid='".$cid."'";
+$query="SELECT DISTINCT pid FROM horarios WHERE cid='".$cid."'";
 $consulta=$db->query($query);
-$alma=null;
+$alma=Array();
 while($row=$db->fetch_array($consulta)) {
-	if(!in_array($row['pid'], $alma)) {
+	//if(!in_array($row['pid'], $alma)) {
 		$pid[]=$row['pid'];
-		$alma[]=$row['pid'];
-	}
+	//	$alma[]=$row['pid'];
+	//}
 }
 //Prof Sel
 $prof_sel="";

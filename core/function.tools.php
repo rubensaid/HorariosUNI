@@ -265,7 +265,7 @@ function makeDBCourse($filename) {
 					$line_div=explode(" ",$line);
 					if(count($line_div)==1) {
 						$cursos++;
-						if($cursos>=6) {
+						if($cursos>=2) {
 							break;
 						} else {
 							$cid=AddCourse($line, 1);
@@ -369,7 +369,7 @@ function AddProfessor($name, $fid) {
 	$prof=explode("-",$name);	
 	if(count($prof)>=2) {
 		$string=$prof[0]." ".$prof[1]." ".$prof[2];
-		$string=ucwords(strtolower(setStd($string)));
+		$string=ucwords(strtolower(setStd(utf8_decode($string))));
 		if(!existsProfessor($string, $fid)) {
 			$db->query("INSERT INTO profesor VALUES ('',".$fid.",'".$string."','0')");
 		}
@@ -500,7 +500,7 @@ function LeerFeed($urlfeed="http://feeds.feedburner.com/Code09FIM?format=xml") {
 	$xml=simplexml_load_file($urlfeed);
 	$feed='<ol>';
 	foreach ($xml->channel->item as $noticia) {		
-		$feed.='<li class="ite'.$i.'"><a href="'.$noticia->link.'">'.utf8_decode($noticia->title).'</a><br />'.substr(utf8_decode($noticia->description),0,100).' ...</li>';
+		$feed.='<li class="ite'.$i.'"><a href="'.$noticia->link.'">'.$noticia->title.'</a><br />'.substr($noticia->description,5,100).' ...</li>';
 		$i++;
 		if($i>=3) break;
 	}

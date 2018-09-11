@@ -1,138 +1,21 @@
-[07-Aug-2011 01:02:17] PHP Parse error:  syntax error, unexpected ':' in /home/code09fi/public_html/horarios/core/function.tools.php on line 113
-[07-Aug-2011 01:02:27] PHP Parse error:  syntax error, unexpected ':' in /home/code09fi/public_html/horarios/core/function.tools.php on line 113
-[07-Aug-2011 22:19:15] PHP Fatal error:  Call to undefined function  json_last_error() in /home/code09fi/public_html/horarios/index.php on line 13
-[07-Aug-2011 22:19:19] PHP Fatal error:  Call to undefined function  json_last_error() in /home/code09fi/public_html/horarios/index.php on line 13
-[07-Aug-2011 22:20:43] PHP Fatal error:  Call to undefined function  json_last_error() in /home/code09fi/public_html/horarios/index.php on line 13
-[07-Aug-2011 22:42:46] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: User code09fi_code09 already has more than 'max_user_connections' active connections in /home/code09fi/public_html/horarios/core/class.mysql.php on line 12
-[07-Aug-2011 23:03:01] PHP Parse error:  syntax error, unexpected ')', expecting ']' in /home/code09fi/public_html/horarios/core/function.tools.php on line 56
-[07-Aug-2011 23:03:40] PHP Parse error:  syntax error, unexpected '[', expecting ';' in /home/code09fi/public_html/horarios/core/function.tools.php on line 52
-[07-Aug-2011 23:04:05] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/code09fi/public_html/horarios/core/function.tools.php on line 56
-[07-Aug-2011 23:30:51] PHP Fatal error:  Call to undefined function  json_enconde() in /home/code09fi/public_html/horarios/timetable.php on line 39
-[07-Aug-2011 23:31:21] PHP Fatal error:  Call to undefined function  json_enconde() in /home/code09fi/public_html/horarios/timetable.php on line 39
-[07-Aug-2011 23:31:55] PHP Fatal error:  Call to undefined function  json_enconde() in /home/code09fi/public_html/horarios/timetable.php on line 39
-[07-Aug-2011 23:41:42] PHP Fatal error:  Maximum execution time of 10 seconds exceeded in /home/code09fi/public_html/horarios/core/class.mysql.php on line 28
-[07-Aug-2011 23:42:19] PHP Fatal error:  Maximum execution time of 10 seconds exceeded in /home/code09fi/public_html/horarios/core/class.mysql.php on line 19
-[07-Aug-2011 23:43:01] PHP Fatal error:  Maximum execution time of 10 seconds exceeded in /home/code09fi/public_html/horarios/core/class.mysql.php on line 28
-[09-Aug-2011 23:24:56] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: User code09fi_code09 already has more than 'max_user_connections' active connections in /home/code09fi/public_html/horarios/core/class.mysql.php on line 12
-[10-Aug-2011 17:07:50] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: User code09fi_code09 already has more than 'max_user_connections' active connections in /home/code09fi/public_html/horarios/core/class.mysql.php on line 12
-[10-Aug-2011 17:07:50] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: User code09fi_code09 already has more than 'max_user_connections' active connections in /home/code09fi/public_html/horarios/core/class.mysql.php on line 12
-[14-Aug-2011 21:38:11] PHP Parse error:  syntax error, unexpected T_PRINT in /home/code09fi/public_html/horarios/index.php on line 101
-[14-Aug-2011 21:38:13] PHP Parse error:  syntax error, unexpected T_PRINT in /home/code09fi/public_html/horarios/index.php on line 101
-[14-Aug-2011 21:39:38] PHP Parse error:  syntax error, unexpected ';' in /home/code09fi/public_html/horarios/index.php on line 99
-[15-Aug-2011 17:29:50] PHP Parse error:  syntax error, unexpected ',', expecting ')' in /home/code09fi/public_html/horarios/index.php on line 9
-[22-Aug-2011 16:29:54] PHP Parse error:  syntax error, unexpected $end in /home/code09fi/public_html/horarios/zone/contact.php on line 22
-[22-Aug-2011 23:54:20] PHP Parse error:  syntax error, unexpected T_RETURN in /home/code09fi/public_html/horarios/core/function.tools.php on line 210
-[22-Aug-2011 23:54:22] PHP Parse error:  syntax error, unexpected T_RETURN in /home/code09fi/public_html/horarios/core/function.tools.php on line 210
-[22-Aug-2011 23:54:24] PHP Parse error:  syntax error, unexpected T_RETURN in /home/code09fi/public_html/horarios/core/function.tools.php on line 210
-[22-Aug-2011 23:54:26] PHP Parse error:  syntax error, unexpected T_RETURN in /home/code09fi/public_html/horarios/core/function.tools.php on line 210
-[25-Aug-2011 01:05:25] PHP Parse error:  syntax error, unexpected '{' in /home/code09fi/public_html/horarios/core/function.tools.php on line 148
-[25-Aug-2011 01:05:28] PHP Parse error:  syntax error, unexpected '{' in /home/code09fi/public_html/horarios/core/function.tools.php on line 148
-[25-Aug-2011 01:05:32] PHP Parse error:  syntax error, unexpected '{' in /home/code09fi/public_html/horarios/core/function.tools.php on line 148
-[25-Aug-2011 01:05:34] PHP Parse error:  syntax error, unexpected '{' in /home/code09fi/public_html/horarios/core/function.tools.php on line 148
-[25-Aug-2011 01:05:38] PHP Parse error:  syntax error, unexpected '{' in /home/code09fi/public_html/horarios/core/function.tools.php on line 148
-[25-Aug-2011 01:05:39] PHP Parse error:  syntax error, unexpected '{' in /home/code09fi/public_html/horarios/core/function.tools.php on line 148
-[25-Aug-2011 01:05:41] PHP Parse error:  syntax error, unexpected '{' in /home/code09fi/public_html/horarios/core/function.tools.php on line 148
-[25-Aug-2011 01:15:27] PHP Parse error:  syntax error, unexpected T_IS_NOT_EQUAL in /home/code09fi/public_html/horarios/zone/index.php on line 14
-[15-Oct-2011 13:36:31] PHP Warning:  require_once(core/class.mysql.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/code09fi/public_html/horarios/index.php on line 2
-[15-Oct-2011 13:36:31] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'core/class.mysql.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/code09fi/public_html/horarios/index.php on line 2
-[15-Oct-2011 13:36:33] PHP Warning:  require_once(core/class.mysql.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/code09fi/public_html/horarios/index.php on line 2
-[15-Oct-2011 13:36:33] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'core/class.mysql.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/code09fi/public_html/horarios/index.php on line 2
-[15-Oct-2011 13:36:34] PHP Warning:  require_once(core/class.mysql.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/code09fi/public_html/horarios/index.php on line 2
-[15-Oct-2011 13:36:34] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'core/class.mysql.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/code09fi/public_html/horarios/index.php on line 2
-[15-Oct-2011 13:36:38] PHP Warning:  require_once(core/class.mysql.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/code09fi/public_html/horarios/index.php on line 2
-[15-Oct-2011 13:36:38] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'core/class.mysql.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/code09fi/public_html/horarios/index.php on line 2
-[15-Oct-2011 13:36:48] PHP Warning:  require_once(core/class.mysql.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/code09fi/public_html/horarios/index.php on line 2
-[15-Oct-2011 13:36:48] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'core/class.mysql.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/code09fi/public_html/horarios/index.php on line 2
-[15-Oct-2011 13:36:50] PHP Warning:  require_once(core/class.mysql.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/code09fi/public_html/horarios/index.php on line 2
-[15-Oct-2011 13:36:50] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'core/class.mysql.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/code09fi/public_html/horarios/index.php on line 2
-[11-Dec-2011 12:10:52] PHP Warning:  file_exists() [<a href='function.file-exists'>function.file-exists</a>]: open_basedir restriction in effect. File(zone/file=../../../../../../proc/self/environ%00.php) is not within the allowed path(s): (/home/code09fi:/usr/lib/php:/usr/local/lib/php:/tmp) in /home/code09fi/public_html/horarios/index.php on line 15
-[11-Dec-2011 19:38:59] PHP Warning:  Invalid argument supplied for foreach() in /home/code09fi/public_html/horarios/core/function.tools.php on line 502
-[11-Dec-2011 19:39:37] PHP Warning:  Invalid argument supplied for foreach() in /home/code09fi/public_html/horarios/core/function.tools.php on line 502
-[12-Dec-2011 18:30:48] PHP Warning:  Invalid argument supplied for foreach() in /home/code09fi/public_html/horarios/core/function.tools.php on line 502
-[15-Dec-2011 20:48:20] PHP Warning:  Invalid argument supplied for foreach() in /home/code09fi/public_html/horarios/core/function.tools.php on line 502
-[16-Dec-2011 07:47:07] PHP Warning:  Invalid argument supplied for foreach() in /home/code09fi/public_html/horarios/core/function.tools.php on line 502
-[16-Dec-2011 07:57:15] PHP Warning:  Invalid argument supplied for foreach() in /home/code09fi/public_html/horarios/core/function.tools.php on line 502
-[17-Dec-2011 21:28:00] PHP Warning:  Invalid argument supplied for foreach() in /home/code09fi/public_html/horarios/core/function.tools.php on line 502
-[17-Dec-2011 21:28:01] PHP Warning:  Invalid argument supplied for foreach() in /home/code09fi/public_html/horarios/core/function.tools.php on line 502
-[17-Dec-2011 21:52:15] PHP Warning:  Invalid argument supplied for foreach() in /home/code09fi/public_html/horarios/core/function.tools.php on line 502
-[17-Dec-2011 21:52:15] PHP Warning:  Invalid argument supplied for foreach() in /home/code09fi/public_html/horarios/core/function.tools.php on line 502
-[21-Dec-2011 08:27:01] PHP Warning:  Invalid argument supplied for foreach() in /home/code09fi/public_html/horarios/core/function.tools.php on line 502
-[23-Dec-2011 06:04:32] PHP Warning:  Invalid argument supplied for foreach() in /home/code09fi/public_html/horarios/core/function.tools.php on line 502
-[25-Dec-2011 07:33:03] PHP Warning:  Invalid argument supplied for foreach() in /home/code09fi/public_html/horarios/core/function.tools.php on line 502
-[25-Dec-2011 21:07:49] PHP Warning:  Invalid argument supplied for foreach() in /home/code09fi/public_html/horarios/core/function.tools.php on line 502
-[25-Dec-2011 23:48:48] PHP Warning:  Invalid argument supplied for foreach() in /home/code09fi/public_html/horarios/core/function.tools.php on line 502
-[25-Dec-2011 23:48:50] PHP Warning:  Invalid argument supplied for foreach() in /home/code09fi/public_html/horarios/core/function.tools.php on line 502
-[25-Dec-2011 23:48:50] PHP Warning:  Invalid argument supplied for foreach() in /home/code09fi/public_html/horarios/core/function.tools.php on line 502
-[25-Dec-2011 23:57:18] PHP Warning:  Invalid argument supplied for foreach() in /home/code09fi/public_html/horarios/core/function.tools.php on line 502
-[27-Dec-2011 12:18:59] PHP Warning:  Invalid argument supplied for foreach() in /home/code09fi/public_html/horarios/core/function.tools.php on line 502
-[30-Dec-2011 21:18:23] PHP Warning:  Invalid argument supplied for foreach() in /home/code09fi/public_html/horarios/core/function.tools.php on line 502
-[30-Dec-2011 21:18:23] PHP Warning:  Invalid argument supplied for foreach() in /home/code09fi/public_html/horarios/core/function.tools.php on line 502
-[18-Jan-2012 23:47:53] PHP Warning:  Invalid argument supplied for foreach() in /home/code09fi/public_html/horarios/core/function.tools.php on line 502
-[19-Feb-2012 09:07:25] PHP Warning:  Invalid argument supplied for foreach() in /home/code09fi/public_html/horarios/core/function.tools.php on line 502
-[19-Feb-2012 19:15:56] PHP Warning:  Invalid argument supplied for foreach() in /home/code09fi/public_html/horarios/core/function.tools.php on line 502
-[19-Feb-2012 19:15:56] PHP Warning:  Invalid argument supplied for foreach() in /home/code09fi/public_html/horarios/core/function.tools.php on line 502
-[20-Feb-2012 05:30:17] PHP Warning:  Invalid argument supplied for foreach() in /home/code09fi/public_html/horarios/core/function.tools.php on line 502
-[20-Feb-2012 22:54:22] PHP Warning:  Invalid argument supplied for foreach() in /home/code09fi/public_html/horarios/core/function.tools.php on line 502
-[21-Feb-2012 04:46:47] PHP Warning:  Invalid argument supplied for foreach() in /home/code09fi/public_html/horarios/core/function.tools.php on line 502
-[21-Feb-2012 09:37:16] PHP Warning:  Invalid argument supplied for foreach() in /home/code09fi/public_html/horarios/core/function.tools.php on line 502
-[21-Feb-2012 09:37:16] PHP Warning:  Invalid argument supplied for foreach() in /home/code09fi/public_html/horarios/core/function.tools.php on line 502
-[21-Feb-2012 13:18:12] PHP Warning:  Invalid argument supplied for foreach() in /home/code09fi/public_html/horarios/core/function.tools.php on line 502
-[22-Feb-2012 05:51:49] PHP Warning:  Invalid argument supplied for foreach() in /home/code09fi/public_html/horarios/core/function.tools.php on line 502
-[22-Feb-2012 06:48:39] PHP Warning:  Invalid argument supplied for foreach() in /home/code09fi/public_html/horarios/core/function.tools.php on line 502
-[22-Feb-2012 06:48:39] PHP Warning:  Invalid argument supplied for foreach() in /home/code09fi/public_html/horarios/core/function.tools.php on line 502
-[22-Feb-2012 15:54:13] PHP Warning:  Invalid argument supplied for foreach() in /home/code09fi/public_html/horarios/core/function.tools.php on line 502
-[22-Feb-2012 15:54:14] PHP Warning:  Invalid argument supplied for foreach() in /home/code09fi/public_html/horarios/core/function.tools.php on line 502
-[22-Feb-2012 22:21:53] PHP Warning:  Invalid argument supplied for foreach() in /home/code09fi/public_html/horarios/core/function.tools.php on line 502
-[23-Feb-2012 21:09:17] PHP Warning:  Invalid argument supplied for foreach() in /home/code09fi/public_html/horarios/core/function.tools.php on line 502
-[23-Feb-2012 21:40:58] PHP Warning:  Invalid argument supplied for foreach() in /home/code09fi/public_html/horarios/core/function.tools.php on line 502
-[24-Feb-2012 07:11:31] PHP Warning:  Invalid argument supplied for foreach() in /home/code09fi/public_html/horarios/core/function.tools.php on line 502
-[24-Feb-2012 14:11:41] PHP Warning:  Invalid argument supplied for foreach() in /home/code09fi/public_html/horarios/core/function.tools.php on line 502
-[24-Feb-2012 14:11:43] PHP Warning:  Invalid argument supplied for foreach() in /home/code09fi/public_html/horarios/core/function.tools.php on line 502
-[24-Feb-2012 14:11:43] PHP Warning:  Invalid argument supplied for foreach() in /home/code09fi/public_html/horarios/core/function.tools.php on line 502
-[24-Feb-2012 14:12:10] PHP Warning:  Invalid argument supplied for foreach() in /home/code09fi/public_html/horarios/core/function.tools.php on line 502
-[24-Feb-2012 14:12:24] PHP Warning:  Invalid argument supplied for foreach() in /home/code09fi/public_html/horarios/core/function.tools.php on line 502
-[24-Feb-2012 14:12:53] PHP Warning:  Invalid argument supplied for foreach() in /home/code09fi/public_html/horarios/core/function.tools.php on line 502
-[24-Feb-2012 14:12:57] PHP Warning:  Invalid argument supplied for foreach() in /home/code09fi/public_html/horarios/core/function.tools.php on line 502
-[24-Feb-2012 21:36:44] PHP Warning:  Invalid argument supplied for foreach() in /home/code09fi/public_html/horarios/core/function.tools.php on line 502
-[25-Feb-2012 01:19:21] PHP Warning:  Invalid argument supplied for foreach() in /home/code09fi/public_html/horarios/core/function.tools.php on line 502
-[25-Feb-2012 01:23:14] PHP Warning:  Invalid argument supplied for foreach() in /home/code09fi/public_html/horarios/core/function.tools.php on line 502
-[25-Feb-2012 01:23:23] PHP Warning:  Invalid argument supplied for foreach() in /home/code09fi/public_html/horarios/core/function.tools.php on line 502
-[25-Feb-2012 01:24:33] PHP Warning:  Invalid argument supplied for foreach() in /home/code09fi/public_html/horarios/core/function.tools.php on line 502
-[25-Feb-2012 01:26:56] PHP Warning:  Invalid argument supplied for foreach() in /home/code09fi/public_html/horarios/core/function.tools.php on line 502
-[25-Feb-2012 18:14:07] PHP Warning:  Invalid argument supplied for foreach() in /home/code09fi/public_html/horarios/core/function.tools.php on line 502
-[25-Feb-2012 18:14:07] PHP Warning:  Invalid argument supplied for foreach() in /home/code09fi/public_html/horarios/core/function.tools.php on line 502
-[26-Feb-2012 22:01:02] PHP Warning:  Invalid argument supplied for foreach() in /home/code09fi/public_html/horarios/core/function.tools.php on line 502
-[28-Feb-2012 02:20:19] PHP Warning:  Invalid argument supplied for foreach() in /home/code09fi/public_html/horarios/core/function.tools.php on line 502
-[28-Feb-2012 17:28:20] PHP Warning:  Invalid argument supplied for foreach() in /home/code09fi/public_html/horarios/core/function.tools.php on line 502
-[28-Feb-2012 17:28:21] PHP Warning:  Invalid argument supplied for foreach() in /home/code09fi/public_html/horarios/core/function.tools.php on line 502
-[28-Feb-2012 17:49:14] PHP Warning:  Invalid argument supplied for foreach() in /home/code09fi/public_html/horarios/core/function.tools.php on line 502
-[29-Feb-2012 23:37:42] PHP Warning:  Invalid argument supplied for foreach() in /home/code09fi/public_html/horarios/core/function.tools.php on line 502
-[01-Mar-2012 08:39:43] PHP Warning:  Invalid argument supplied for foreach() in /home/code09fi/public_html/horarios/core/function.tools.php on line 502
-[01-Mar-2012 09:22:39] PHP Warning:  Invalid argument supplied for foreach() in /home/code09fi/public_html/horarios/core/function.tools.php on line 502
-[01-Mar-2012 09:50:37] PHP Warning:  Invalid argument supplied for foreach() in /home/code09fi/public_html/horarios/core/function.tools.php on line 502
-[01-Mar-2012 09:50:38] PHP Warning:  Invalid argument supplied for foreach() in /home/code09fi/public_html/horarios/core/function.tools.php on line 502
-[01-Mar-2012 09:50:38] PHP Warning:  Invalid argument supplied for foreach() in /home/code09fi/public_html/horarios/core/function.tools.php on line 502
-[02-Mar-2012 11:10:00] PHP Warning:  Invalid argument supplied for foreach() in /home/code09fi/public_html/horarios/core/function.tools.php on line 502
-[02-Mar-2012 21:04:45] PHP Warning:  Invalid argument supplied for foreach() in /home/code09fi/public_html/horarios/core/function.tools.php on line 502
-[02-Mar-2012 21:04:45] PHP Warning:  Invalid argument supplied for foreach() in /home/code09fi/public_html/horarios/core/function.tools.php on line 502
-[03-Mar-2012 19:12:58] PHP Warning:  Invalid argument supplied for foreach() in /home/code09fi/public_html/horarios/core/function.tools.php on line 502
-[05-Mar-2012 20:42:56] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: User code09fi_hora already has more than 'max_user_connections' active connections in /home/code09fi/public_html/horarios/core/class.mysql.php on line 12
-[05-Mar-2012 20:42:56] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: User code09fi_hora already has more than 'max_user_connections' active connections in /home/code09fi/public_html/horarios/core/class.mysql.php on line 12
-[05-Mar-2012 20:42:56] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: User code09fi_hora already has more than 'max_user_connections' active connections in /home/code09fi/public_html/horarios/core/class.mysql.php on line 12
-[05-Mar-2012 20:42:56] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: User code09fi_hora already has more than 'max_user_connections' active connections in /home/code09fi/public_html/horarios/core/class.mysql.php on line 12
-[05-Mar-2012 20:43:17] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: User code09fi_hora already has more than 'max_user_connections' active connections in /home/code09fi/public_html/horarios/core/class.mysql.php on line 12
-[05-Mar-2012 20:43:17] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: User code09fi_hora already has more than 'max_user_connections' active connections in /home/code09fi/public_html/horarios/core/class.mysql.php on line 12
-[05-Mar-2012 20:43:17] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: User code09fi_hora already has more than 'max_user_connections' active connections in /home/code09fi/public_html/horarios/core/class.mysql.php on line 12
-[05-Mar-2012 20:43:17] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: User code09fi_hora already has more than 'max_user_connections' active connections in /home/code09fi/public_html/horarios/core/class.mysql.php on line 12
-[05-Mar-2012 20:43:39] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: User code09fi_hora already has more than 'max_user_connections' active connections in /home/code09fi/public_html/horarios/core/class.mysql.php on line 12
-[05-Mar-2012 20:43:39] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: User code09fi_hora already has more than 'max_user_connections' active connections in /home/code09fi/public_html/horarios/core/class.mysql.php on line 12
-[05-Mar-2012 20:43:39] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: User code09fi_hora already has more than 'max_user_connections' active connections in /home/code09fi/public_html/horarios/core/class.mysql.php on line 12
-[08-Mar-2012 18:56:25] PHP Warning:  Invalid argument supplied for foreach() in /home/code09fi/public_html/horarios/core/function.tools.php on line 502
-[08-Mar-2012 18:56:25] PHP Warning:  Invalid argument supplied for foreach() in /home/code09fi/public_html/horarios/core/function.tools.php on line 502
-[08-Mar-2012 22:03:25] PHP Warning:  Invalid argument supplied for foreach() in /home/code09fi/public_html/horarios/core/function.tools.php on line 502
-[09-Mar-2012 11:18:59] PHP Warning:  Invalid argument supplied for foreach() in /home/code09fi/public_html/horarios/core/function.tools.php on line 502
-[09-Mar-2012 11:19:00] PHP Warning:  Invalid argument supplied for foreach() in /home/code09fi/public_html/horarios/core/function.tools.php on line 502
-[17-Mar-2012 01:11:40] PHP Warning:  simplexml_load_file() [<a href='function.simplexml-load-file'>function.simplexml-load-file</a>]: Couldn't resolve host name in /home/code09fi/public_html/horarios/core/function.tools.php on line 500
-[17-Mar-2012 01:11:40] PHP Warning:  simplexml_load_file(http://feeds.feedburner.com/Code09FIM?format=xml) [<a href='function.simplexml-load-file'>function.simplexml-load-file</a>]: failed to open stream: operation failed in /home/code09fi/public_html/horarios/core/function.tools.php on line 500
-[17-Mar-2012 01:11:40] PHP Warning:  simplexml_load_file() [<a href='function.simplexml-load-file'>function.simplexml-load-file</a>]: I/O warning : failed to load external entity &quot;http://feeds.feedburner.com/Code09FIM?format=xml&quot; in /home/code09fi/public_html/horarios/core/function.tools.php on line 500
-[17-Mar-2012 01:11:40] PHP Warning:  Invalid argument supplied for foreach() in /home/code09fi/public_html/horarios/core/function.tools.php on line 502
+[27-Aug-2014 07:02:49 Europe/Madrid] PHP Warning:  mysql_connect(): User 'rubensai_horari' has exceeded the 'max_connections_per_hour' resource (current value: 20) in /home/rubensai/public_html/horarios/core/class.mysql.php on line 12
+[27-Aug-2014 07:02:57 Europe/Madrid] PHP Warning:  mysql_connect(): User 'rubensai_horari' has exceeded the 'max_connections_per_hour' resource (current value: 20) in /home/rubensai/public_html/horarios/core/class.mysql.php on line 12
+[04-Sep-2014 15:16:16 Europe/Madrid] PHP Warning:  mysql_connect(): User 'rubensai_horari' has exceeded the 'max_connections_per_hour' resource (current value: 20) in /home/rubensai/public_html/horarios/core/class.mysql.php on line 12
+[04-Sep-2014 15:24:31 Europe/Madrid] PHP Warning:  mysql_connect(): User 'rubensai_horari' has exceeded the 'max_connections_per_hour' resource (current value: 20) in /home/rubensai/public_html/horarios/core/class.mysql.php on line 12
+[04-Sep-2014 15:24:58 Europe/Madrid] PHP Warning:  mysql_connect(): User 'rubensai_horari' has exceeded the 'max_connections_per_hour' resource (current value: 20) in /home/rubensai/public_html/horarios/core/class.mysql.php on line 12
+[30-Sep-2014 19:41:50 Europe/Madrid] PHP Warning:  simplexml_load_file(): http://feeds.feedburner.com/Code09FIM?format=xml:1: parser error : Document is empty in /home/rubensai/public_html/horarios/core/function.tools.php on line 500
+[30-Sep-2014 19:41:50 Europe/Madrid] PHP Warning:  simplexml_load_file():  in /home/rubensai/public_html/horarios/core/function.tools.php on line 500
+[30-Sep-2014 19:41:50 Europe/Madrid] PHP Warning:  simplexml_load_file(): ^ in /home/rubensai/public_html/horarios/core/function.tools.php on line 500
+[30-Sep-2014 19:41:50 Europe/Madrid] PHP Warning:  simplexml_load_file(): http://feeds.feedburner.com/Code09FIM?format=xml:1: parser error : Start tag expected, '&lt;' not found in /home/rubensai/public_html/horarios/core/function.tools.php on line 500
+[30-Sep-2014 19:41:50 Europe/Madrid] PHP Warning:  simplexml_load_file():  in /home/rubensai/public_html/horarios/core/function.tools.php on line 500
+[30-Sep-2014 19:41:50 Europe/Madrid] PHP Warning:  simplexml_load_file(): ^ in /home/rubensai/public_html/horarios/core/function.tools.php on line 500
+[30-Sep-2014 19:41:50 Europe/Madrid] PHP Warning:  Invalid argument supplied for foreach() in /home/rubensai/public_html/horarios/core/function.tools.php on line 502
+[21-Oct-2014 08:58:09 Europe/Madrid] PHP Warning:  mysql_connect(): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/rubensai/public_html/horarios/core/class.mysql.php on line 12
+[04-Nov-2014 16:01:12 Europe/Madrid] PHP Warning:  simplexml_load_file(): http://feeds.feedburner.com/Code09FIM?format=xml:1: parser error : Document is empty in /home/rubensai/public_html/horarios/core/function.tools.php on line 500
+[04-Nov-2014 16:01:12 Europe/Madrid] PHP Warning:  simplexml_load_file():  in /home/rubensai/public_html/horarios/core/function.tools.php on line 500
+[04-Nov-2014 16:01:12 Europe/Madrid] PHP Warning:  simplexml_load_file(): ^ in /home/rubensai/public_html/horarios/core/function.tools.php on line 500
+[04-Nov-2014 16:01:12 Europe/Madrid] PHP Warning:  simplexml_load_file(): http://feeds.feedburner.com/Code09FIM?format=xml:1: parser error : Start tag expected, '&lt;' not found in /home/rubensai/public_html/horarios/core/function.tools.php on line 500
+[04-Nov-2014 16:01:12 Europe/Madrid] PHP Warning:  simplexml_load_file():  in /home/rubensai/public_html/horarios/core/function.tools.php on line 500
+[04-Nov-2014 16:01:12 Europe/Madrid] PHP Warning:  simplexml_load_file(): ^ in /home/rubensai/public_html/horarios/core/function.tools.php on line 500
+[04-Nov-2014 16:01:12 Europe/Madrid] PHP Warning:  Invalid argument supplied for foreach() in /home/rubensai/public_html/horarios/core/function.tools.php on line 502
+[12-Nov-2014 00:31:48 Europe/Madrid] PHP Warning:  mysql_connect(): User 'rubensai_horari' has exceeded the 'max_connections_per_hour' resource (current value: 20) in /home/rubensai/public_html/horarios/core/class.mysql.php on line 12

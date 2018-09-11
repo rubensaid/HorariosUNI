@@ -10,7 +10,7 @@ $url_bar=explode("?",$_SERVER['REQUEST_URI']);
 $url_bar=$url_bar[1];
 if($url_bar=="") $url_bar="index";
 if($url_bar=="addDB") {	
-	$content=makeDBCourse("fimuni2012-1.txt");
+	$content=makeDBCourse("fimuni2013-1.txt");
 } else {	
 	if(file_exists("zone/".$url_bar.".php")) {
 		include("zone/".$url_bar.".php");

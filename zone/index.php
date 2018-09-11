@@ -60,10 +60,10 @@ $css='<link rel="stylesheet" type="text/css" href="css/prettyForms.css"/>
 //Body Effect
 $bodyfx='onload="autosuggest();"';
 
-//Content<div id="msgimportant">DB <strong>FIM UNI 2011-2</strong> actualizada. Correciones al 25/08/2011 6:00pm.</div>
+//Content<div id="msgimportant">DB <strong>FIM UNI 2013-1</strong> actualizada. Correciones al 25/08/2011 6:00pm.</div>
 $content='
 		
-		<div id="msgimportanta">Actualizando DB para PA 2012-1 en progreso...</div>		
+		<div id="msgimportant">DB <strong>FIM UNI 2013-1</strong> actualizada 20/03/2013 05:00pm.</div>		
 		<div class="uni">Universidad Nacional de Ingenier&iacute;a <span>cambiar</span></div>
 			<div class="facu">Facultad de Ingenier&iacute;a Mec&aacute;nica <span>cambiar</span></div>
 			<div class="course">

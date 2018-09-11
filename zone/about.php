@@ -7,7 +7,7 @@ $title="Acerca de...";
 //Content
 $content='<div style="text-align: justify; padding: 10px;">
 <h2>Acerca de...</h2>
-<img src="http://a5.sphotos.ak.fbcdn.net/hphotos-ak-snc6/188264_1894638528600_1320677258_32242723_1187967_n.jpg" style="float: right; margin-bottom: -5px; margin-left: 15px; margin-right: 2px; margin-top: -6px;" alt="Ruben Said Felix Ruiz, Lima - Per&uacute;" title="Ruben Said Felix Ruiz, Lima - Per&uacute;" />
+<img src="http://i41.photobucket.com/albums/e270/said13/banner/775064_10200352385915176_733558294_o_zps672dd7ff.jpg" width="250" style="float: right; margin-bottom: -5px; margin-left: 15px; margin-right: 2px; margin-top: -6px;" alt="Ruben Said Felix Ruiz, Lima - Per&uacute;" title="Ruben Said Felix Ruiz, Lima - Per&uacute;" />
 <span>Horarios</span> es un aplicaci&oacute;n web desarrollada por Ruben Said Felix Ruiz, estudiante de Ingenier&iacute;a Mec&aacute;nica El&eacute;ctrica de la Universidad Nacional de Ingenier&iacute;a, Lima - Per&uacute;. <span>Horarios</span> le permite armar de manera r&aacute;pida y sencilla su horario universitario presentandole multiples opciones de configuraci&oacute;n y personalizaci&oacute;n para el mismo.<br />
 <br />
 <span>Horarios</span> es una plataforma dise&ntilde;a para soportar gu&iacute;as de horarios de distintias facultades y universidades varias. En la primera parte de su desarrollo se encuentran solo disponibles horarios para la Universidad Nacional de Ingenier&iacute;a pero, con el tiempo, se ir&aacute; ampliando estas posibilidades.<br />

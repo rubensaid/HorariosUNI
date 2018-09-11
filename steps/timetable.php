@@ -10,7 +10,7 @@ require_once("../core/function.tools.php");
 require_once("../core/function.statistics.php");
 noCache();
 $memo_ini=memory_get_peak_usage();
-set_time_limit(10);
+//set_time_limit(10);
 
 //Facultad y Universidad
 $f_sel=f_sel($_GET['f_sel']);
